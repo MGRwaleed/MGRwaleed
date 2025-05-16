@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mohammed Ghulam Rasool (aka Waleed)</h1>
+<h3 align="center">Aspiring Full Stack Developer | B.Tech CSE(DS) Student | Tech Explorer</h3>
 
-<!--
-**MGRwaleed/MGRwaleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I'm a **Computer Science Engineering** student (B.Tech)
+- 🌱 Currently learning **Full Stack Development**
+- 💻 Skilled in: `HTML`, `CSS`, `Python`, `R`, `JavaScript (Basics)`
+- 🌐 I enjoy creating user-friendly web pages and exploring backend technologies
+- 🛠️ Passionate about solving real-world problems with code
+- 🚀 Looking forward to contributing to open-source & building real projects!
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MGRwaleed&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGRwaleed&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🔭 Currently Working On
+
+- 🌐 Building small frontend projects
+- 📚 Learning JavaScript deeply
+- 🔧 Exploring backend with Node.js and Express (soon!)
+
+---
+
+### 💬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:waleeddastagir1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-ghulam-rasool-ab9562291/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MGRwaleed"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> "I may not know everything yet 🤷‍♂️, but Google 🔍, Stack Overflow 💡, and curiosity 🧠 are my best teammates!"
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBsWz2T9J6D7Hbi/giphy.gif" width="300" alt="Motivation GIF"/>
+</p>

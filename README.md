@@ -55,13 +55,15 @@
   <a href="mailto:waleeddastagir1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohammed-ghulam-rasool-ab9562291/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MGRwaleed"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/waleedintech/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/Waleedwhoo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
 
-> "I may not know everything yet 🤷‍♂️, but Google 🔍, Stack Overflow 💡, and curiosity 🧠 are my best teammates!"
+> **"I may not know everything yet 🤷‍♂️, but Google 🔍, Stack Overflow 💡, and curiosity 🧠 are my best teammates!"**
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBsWz2T9J6D7Hbi/giphy.gif" width="300" alt="Motivation GIF"/>

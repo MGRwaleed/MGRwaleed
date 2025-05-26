@@ -68,10 +68,12 @@
 
 ---
 
+---
+
 ### ⚡ Fun Fact
 
 > **"I may not know everything yet 🤷‍♂️, but Google 🔍, Stack Overflow 💡, and curiosity 🧠 are my best teammates!"**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBsWz2T9J6D7Hbi/giphy.gif" width="300" alt="Motivation GIF"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Keep Coding GIF"/>
 </p>

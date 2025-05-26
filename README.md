@@ -68,12 +68,6 @@
 
 ---
 
----
-
----
-
----
-
 ### ⚡ Fun Fact
 
 > **"I may not know everything yet 🤷‍♂️, but Google 🔍, Stack Overflow 💡, and curiosity 🧠 are my best teammates!"**

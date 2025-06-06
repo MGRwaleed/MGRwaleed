@@ -31,27 +31,16 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" title="R Language"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" alt="Python" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-r-programming-programming-flat-flat-juicy-fish.png" title="R Language" alt="R" />
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git" />
 </p>
 
 ---
+
 
 
 

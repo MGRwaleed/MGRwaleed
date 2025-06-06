@@ -63,33 +63,33 @@
 - 🔧 Exploring backend with Node.js and Express (soon!)
 
 ---
----
 
 ### 💬 Let's Connect!
 
 <p align="center">
   <a href="mailto:waleeddastagir1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mohammed-ghulam-rasool-ab9562291/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/MGRwaleed" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/waleedintech/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://x.com/Waleedwhoo" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000?style=flat&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
+
 
 
 

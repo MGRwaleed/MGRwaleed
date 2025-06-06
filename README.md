@@ -63,18 +63,34 @@
 - 🔧 Exploring backend with Node.js and Express (soon!)
 
 ---
+---
 
 ### 💬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:waleeddastagir1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-ghulam-rasool-ab9562291/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MGRwaleed"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/waleedintech/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/Waleedwhoo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:waleeddastagir1@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" alt="Email" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-ghulam-rasool-ab9562291/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MGRwaleed" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/waleedintech/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new--v1.png" title="Instagram" alt="Instagram" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Waleedwhoo" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v2.png" title="Twitter (X)" alt="Twitter" width="30" height="30"/>
+  </a>
 </p>
 
 ---
+
 
 ### ⚡ Fun Fact
 

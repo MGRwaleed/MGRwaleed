@@ -69,27 +69,28 @@
 
 <p align="center">
   <a href="mailto:waleeddastagir1@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" alt="Email" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/mohammed-ghulam-rasool-ab9562291/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/MGRwaleed" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/waleedintech/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new--v1.png" title="Instagram" alt="Instagram" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/Waleedwhoo" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v2.png" title="Twitter (X)" alt="Twitter" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/-X-000?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
+
 
 
 ### ⚡ Fun Fact

@@ -31,17 +31,20 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" alt="Python" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-r-programming-programming-flat-flat-juicy-fish.png" title="R Language" alt="R" />
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R Language" alt="R" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
 </p>
 
 ---
-
-
 
 
 ### 📈 GitHub Stats
